@@ -2,7 +2,16 @@
   "openapi": "3.0.0",
   "info": {
     "title": "damar link",
-    "description": "",
+    "description": "API for https://damar.link",
+    "contact": {
+      "name": "Fredrik Wahlqvist",
+      "url": "https://www.damar.link/contact",
+      "email": ""
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    },
     "version": "1.0.0"
   },
   "paths": {
